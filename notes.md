@@ -22,3 +22,6 @@ Nothing much to say. Found the solution on my own on the first time. I built my 
 - node leafs inversion
 Thats pretty much it. The code speaks for itself. 
 I just had a hard time with rust borrow checker  / rc / cell and it would be great to be able to get it on a whiteboard without any external help (neither net nor compiler hardcarrying me. 
+
+## Backtracking
+### Permutations
